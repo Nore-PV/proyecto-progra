@@ -15,6 +15,7 @@ switch( dia ) {
     case 3:
         console.log(' Es miercoles');
         break;
+        console.log('aalgooo')
     case 4:
         console.log(' Es jueves');
         break;
